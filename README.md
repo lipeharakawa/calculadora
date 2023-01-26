@@ -5,9 +5,9 @@ Calculadora feita em HTML, CSS e JavaScript, capaz de realizar operações de ad
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>     |    
+  <a href="#-tecnologias">Tecnologias<a>     |    
   <a href="#-projeto">Projeto</a>     |    
-  <a href="#-memo--licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Calculadora feita em HTML, CSS e JavaScript, capaz de realizar operações de ad
 <br>
 
 <p align="center">
-  <img alt="Foto Currículo de Felipe Harakawa" src=".github/preview.jpg" width="100%">
+  <img alt="Foto projeto Calculadora" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,10 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ Visite o projeto online ](https://lipeharakawa.github.io/calculadora-html-css-js)
 
 
-## : memo : Licença
+## ✅ Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 💖 por Felipe Seidi Harakawa 👋.
+Feito com 🧡 por Felipe Seidi Harakawa 👋.
