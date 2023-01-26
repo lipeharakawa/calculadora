@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/curriculo-html-css)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/calculadora-html-css-js)
 
 
 ## : memo : Licença
