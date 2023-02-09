@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Calculadora capaz de realizar operações de adição, subtração, multiplicação e divisão.
+
 - [ Visite o projeto online ](https://lipeharakawa.github.io/calculadora-html-css-js)
 
 
