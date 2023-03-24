@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Calculadora desenvolvida em HTML, CSS e JavaScript para a realização de cálculos numéricos, capaz de realizar operações de adição, subtração, multiplicação e divisão.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/calculadora-html-css-js)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/calculadora)
 
 
 ## ✅ Licença
